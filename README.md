@@ -1,6 +1,6 @@
 # Boat Rental
 
-## Setup
+## Setup 
 
 * Fork this Repository
 * Clone YOUR fork
