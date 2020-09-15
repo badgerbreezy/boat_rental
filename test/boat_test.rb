@@ -11,5 +11,6 @@ class BoatTest < Minitest::Test
     assert_instance_of Boat, kayak
     assert_equal :kayak, kayak.type
     assert_equal 20, kayak.price_per_hour
+    assert_equal 0, kayak.hours_rented
   end
 end
